@@ -1,7 +1,7 @@
 {
   "name": "npm-runner",
   "main": "./lib/npm-runner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Experimental npm task runner",
   "keywords": [
   ],
