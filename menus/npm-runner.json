@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle npm-runner",
+        "command": "npm-runner:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "npm-runner",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "npm-runner:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
